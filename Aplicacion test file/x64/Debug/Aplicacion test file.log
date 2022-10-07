@@ -1,0 +1,3 @@
+﻿  Aplicacion test file.cpp
+C:\Users\kovac\OneDrive\Escritorio\Documentos\Carpetas\Programación\C++\Aplicacion test file\Aplicacion test file\Aplicacion test file.cpp(73,25): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+  Aplicacion test file.vcxproj -> C:\Users\kovac\OneDrive\Escritorio\Documentos\Carpetas\Programación\C++\Aplicacion test file\x64\Debug\Aplicacion test file.exe

@@ -1,0 +1,14 @@
+Saldo: 0
+--/---/---- @ --:-- --
+Concepto: 
+Monto: +0
+Banco : 
+Diferencia : 0
+--------------------
+Saldo: 0
+ @ 
+Concepto: 
+Monto: +43874
+Banco : 
+Diferencia : 43874
+--------------------

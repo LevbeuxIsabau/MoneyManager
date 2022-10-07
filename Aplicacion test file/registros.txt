@@ -1,0 +1,147 @@
+Saldo: 0
+--/---/---- @ --:-- --
+Concepto: 
+Monto: +0
+Banco : 
+Diferencia : 0
+--------------------
+Saldo: 0
+-- @ --
+Concepto: Saldo anterior
+Monto: +1471.71
+Banco : --
+Diferencia : 1471.71
+--------------------
+Saldo: 1471.71
+02/OCT/2022 @ 11:55 AM
+Concepto: RENTA OCTUBRE 0210220
+Monto: +100000
+Banco : HSBC
+Diferencia : 101471.71
+--------------------
+Saldo: 101471.71
+02/OCT/2022 @ 12:29 PM
+Concepto: Tranferencia Adry
+Monto: -4500.00
+Banco : HSBC
+Diferencia : 96971.71
+--------------------
+Saldo: 96971.71
+02/OCT/2022 @ 01:33 PM
+Concepto: Mercado Pago Recarga de Tag
+Monto: -1000.00
+Banco : HSBC
+Diferencia : 95971.71
+--------------------
+Saldo: 95971.71
+02/OCT/2022 @ 02:21 PM
+Concepto: Liverpool
+Monto: -1969.20
+Banco : HSBC
+Diferencia : 94002.51
+--------------------
+Saldo: 94002.51
+02/OCT/2022 @ 04:08 PM
+Concepto: Chili's
+Monto: -2201.10
+Banco : HSBC
+Diferencia : 91801.41
+--------------------
+Saldo: 91801.41
+02/OCT/2022 @ 04:10 PM
+Concepto: Mercado Pago Rey del Cash
+Monto: -299.00
+Banco : HSBC
+Diferencia : 91502.41
+--------------------
+Saldo: 91502.41
+03/OCT/2022 @ 03:40 PM
+Concepto: Retiro Cajero
+Monto: -5034.22
+Banco : HSBC
+Diferencia : 86468.19
+--------------------
+Saldo: 86468.19
+03/OCT/2022 @ 03:34 PM
+Concepto: Transferencia CEMV
+Monto: -5000.00
+Banco : HSBC
+Diferencia : 81468.19
+--------------------
+Saldo: 81468.19
+03/OCT/2022 @ 03:42 PM
+Concepto: Transferencia CEMV
+Monto: -40.00
+Banco : HSBC
+Diferencia : 81428.19
+--------------------
+Saldo: 81428.19
+03/OCT/2022 @ 04:25 PM
+Concepto: Ferreteria
+Monto: -3923.94
+Banco : HSBC
+Diferencia : 77504.25
+--------------------
+Saldo: 77504.25
+03/OCT/2022 @ 09:11 PM
+Concepto: PayPal
+Monto: -129.00
+Banco : HSBC
+Diferencia : 77375.25
+--------------------
+Saldo: 77375.25
+04/OCT/2022 @ 03:40 PM
+Concepto: Transferencia CEMV
+Monto: -8040.00
+Banco : HSBC
+Diferencia : 69335.25
+--------------------
+Saldo: 69335.25
+04/OCT/2022 @ 03:49 PM
+Concepto: Transferencia CEMV
+Monto: -40.00
+Banco : HSBC
+Diferencia : 69295.25
+--------------------
+Saldo: 69295.25
+04/OCT/2022 @ 04:09 PM
+Concepto: Transferencia CEMV
+Monto: -3750.00
+Banco : HSBC
+Diferencia : 65545.25
+--------------------
+Saldo: 65545.25
+04/OCT/2022 @ 04:24 PM
+Concepto: Transferencia CEMV
+Monto: +3750.00
+Banco : HSBC
+Diferencia : 69295.25
+--------------------
+Saldo: 69295.25
+04/OCT/2022 @ 10:57 PM
+Concepto: Pago Escuela Alex Justo Sierra
+Monto: -3750.00
+Banco : HSBC
+Diferencia : 65545.25
+--------------------
+Saldo: 65545.25
+05/OCT/2022 @ 11:49 AM
+Concepto: Bodega Aurrera
+Monto: -1945.50
+Banco : HSBC
+Diferencia : 63599.75
+--------------------
+Saldo: 63599.75
+06/OCT/2022 @ 11:34 AM
+Concepto: Transferencia Chema
+Monto: -400.00
+Banco : HSBC
+Diferencia : 63199.75
+--------------------
+Saldo: 63199.75
+06/OCT/2022 @ 04:33 PM
+Concepto: Gasolineria
+Monto: -1200.00
+Banco : HSBC
+Diferencia : 61999.75
+--------------------
